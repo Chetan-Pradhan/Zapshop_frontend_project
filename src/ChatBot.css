@@ -1,0 +1,13 @@
+.chatSample {
+  cursor: pointer;
+  background-color: white;
+  padding: 0.8rem;
+  border-radius: 1rem;
+}
+
+.chatBox {
+  background-color: white;
+  padding: 0.8rem;
+  border-radius: 1rem;
+  height: 30rem;
+}

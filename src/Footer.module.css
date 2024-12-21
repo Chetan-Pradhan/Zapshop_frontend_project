@@ -1,0 +1,29 @@
+.links a {
+  text-decoration: none;
+  color: #95a3b9;
+}
+
+.links a:hover {
+  text-decoration: underline;
+  color: hsla(217, 20%, 65%, 0.815);
+}
+
+.boxes {
+  margin: 3rem;
+}
+
+@media only screen and (max-width: 767px) {
+  .boxes h5,
+  a {
+    font-size: 0.4rem;
+  }
+}
+
+/* for tablets */
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+}
+
+/* for laptop devices */
+
+@media only screen and (min-width: 1024px) and (max-width: 1439px) {
+}
