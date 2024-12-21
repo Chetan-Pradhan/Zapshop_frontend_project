@@ -29,8 +29,9 @@
     width: 25%;
   }
   .cardImage {
-    height: 100px;
-    width: 100px;
+    height: 60px;
+    width: 60px;
+    object-fit: contain;
   }
   .font {
     font-size: 0.4rem;

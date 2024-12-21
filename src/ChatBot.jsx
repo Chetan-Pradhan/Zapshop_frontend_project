@@ -5,7 +5,10 @@ import ChatBox from "./ChatBox.jsx";
 
 export default function ChatBot() {
   return (
-    <div style={{ position: "fixed", bottom: "0px", right: "0px" }}>
+    <div
+      style={{ position: "fixed", bottom: "0px", right: "0px" }}
+      className="botContain"
+    >
       <Container>
         {/* Using Navbars component for responsive robot chat */}
 
