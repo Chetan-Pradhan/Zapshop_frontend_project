@@ -36,21 +36,26 @@ Ensure that you have the following installed before proceeding:
    git clone https://github.com/Chetan-Pradhan/Zapshop_frontend_project.git
    cd chatBot
    ```
+or
+
+1. Download the zip file from github repo (easy way)
+   - open the extracted file in VS code and follow below steps
 
 ### Install the required dependencies for the project
 
 1. ```bash
    npm create vite@latest
    ```
-2. ```bash
-   cd Zapshop_frontend_project
-   ```
+2. 
+   create a random (xyz) project name whit in the vs code
+   No need to cd (xyz) folder
    Please select React framework & JavaScript variant
    
-4. ```bash
+4. Direct install below details and run it in local host site for rendering the project
+   ```bash
    npm install
    ```
-5. ```bash
+6. ```bash
    npm run dev
    ```
 
