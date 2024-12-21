@@ -47,7 +47,7 @@ or
    npm create vite@latest
    ```
 2. 
-   create a random (xyz) project name whit in the vs code
+   create a random (xyz) project name whithin the vs code
    No need to cd (xyz) folder
    Please select React framework & JavaScript variant
    
